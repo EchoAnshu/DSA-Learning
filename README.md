@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/EchoAnshu/DSA-Learning/tree/master/0136-single-number) |
 | [1260-shift-2d-grid](https://github.com/EchoAnshu/DSA-Learning/tree/master/1260-shift-2d-grid) |
 ## Matrix
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/EchoAnshu/DSA-Learning/tree/master/1260-shift-2d-grid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/EchoAnshu/DSA-Learning/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
