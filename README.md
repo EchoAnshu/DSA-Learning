@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/EchoAnshu/DSA-Learning/tree/master/0136-single-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/EchoAnshu/DSA-Learning/tree/master/0209-minimum-size-subarray-sum) |
 | [1260-shift-2d-grid](https://github.com/EchoAnshu/DSA-Learning/tree/master/1260-shift-2d-grid) |
 ## Matrix
 |  |
@@ -48,4 +49,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/EchoAnshu/DSA-Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/EchoAnshu/DSA-Learning/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/EchoAnshu/DSA-Learning/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/EchoAnshu/DSA-Learning/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
