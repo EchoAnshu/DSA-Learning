@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/EchoAnshu/DSA-Learning/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/EchoAnshu/DSA-Learning/tree/master/0209-minimum-size-subarray-sum) |
+| [0486-predict-the-winner](https://github.com/EchoAnshu/DSA-Learning/tree/master/0486-predict-the-winner) |
 | [1260-shift-2d-grid](https://github.com/EchoAnshu/DSA-Learning/tree/master/1260-shift-2d-grid) |
 ## Matrix
 |  |
@@ -61,4 +62,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/EchoAnshu/DSA-Learning/tree/master/0209-minimum-size-subarray-sum) |
+## Math
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/EchoAnshu/DSA-Learning/tree/master/0486-predict-the-winner) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/EchoAnshu/DSA-Learning/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/EchoAnshu/DSA-Learning/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/EchoAnshu/DSA-Learning/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
