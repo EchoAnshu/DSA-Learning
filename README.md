@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/EchoAnshu/DSA-Learning/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/EchoAnshu/DSA-Learning/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/EchoAnshu/DSA-Learning/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/EchoAnshu/DSA-Learning/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/EchoAnshu/DSA-Learning/tree/master/0486-predict-the-winner) |
 | [1260-shift-2d-grid](https://github.com/EchoAnshu/DSA-Learning/tree/master/1260-shift-2d-grid) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/EchoAnshu/DSA-Learning/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -85,4 +86,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/EchoAnshu/DSA-Learning/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/EchoAnshu/DSA-Learning/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
