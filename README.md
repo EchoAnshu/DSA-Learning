@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/EchoAnshu/DSA-Learning/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/EchoAnshu/DSA-Learning/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/EchoAnshu/DSA-Learning/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/EchoAnshu/DSA-Learning/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/EchoAnshu/DSA-Learning/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/EchoAnshu/DSA-Learning/tree/master/0283-move-zeroes) |
@@ -46,15 +47,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/EchoAnshu/DSA-Learning/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/EchoAnshu/DSA-Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/EchoAnshu/DSA-Learning/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/EchoAnshu/DSA-Learning/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/EchoAnshu/DSA-Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/EchoAnshu/DSA-Learning/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/EchoAnshu/DSA-Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
@@ -99,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/EchoAnshu/DSA-Learning/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/EchoAnshu/DSA-Learning/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/EchoAnshu/DSA-Learning/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
