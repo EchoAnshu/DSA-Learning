@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/EchoAnshu/DSA-Learning/tree/master/0486-predict-the-winner) |
 | [1260-shift-2d-grid](https://github.com/EchoAnshu/DSA-Learning/tree/master/1260-shift-2d-grid) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/EchoAnshu/DSA-Learning/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/EchoAnshu/DSA-Learning/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/EchoAnshu/DSA-Learning/tree/master/1260-shift-2d-grid) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/EchoAnshu/DSA-Learning/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/EchoAnshu/DSA-Learning/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/EchoAnshu/DSA-Learning/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/EchoAnshu/DSA-Learning/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/EchoAnshu/DSA-Learning/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Quicksort
 |  |
 | ------- |
