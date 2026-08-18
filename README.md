@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/EchoAnshu/DSA-Learning/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/EchoAnshu/DSA-Learning/tree/master/0486-predict-the-winner) |
 | [0904-fruit-into-baskets](https://github.com/EchoAnshu/DSA-Learning/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/EchoAnshu/DSA-Learning/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/EchoAnshu/DSA-Learning/tree/master/1260-shift-2d-grid) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/EchoAnshu/DSA-Learning/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/EchoAnshu/DSA-Learning/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -70,15 +71,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/EchoAnshu/DSA-Learning/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/EchoAnshu/DSA-Learning/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/EchoAnshu/DSA-Learning/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/EchoAnshu/DSA-Learning/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/EchoAnshu/DSA-Learning/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/EchoAnshu/DSA-Learning/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/EchoAnshu/DSA-Learning/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
