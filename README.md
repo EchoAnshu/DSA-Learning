@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/EchoAnshu/DSA-Learning/tree/master/0412-fizz-buzz) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/EchoAnshu/DSA-Learning/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/EchoAnshu/DSA-Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/EchoAnshu/DSA-Learning/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/EchoAnshu/DSA-Learning/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/EchoAnshu/DSA-Learning/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/EchoAnshu/DSA-Learning/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/EchoAnshu/DSA-Learning/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/EchoAnshu/DSA-Learning/tree/master/0486-predict-the-winner) |
 ## Dynamic Programming
 |  |
